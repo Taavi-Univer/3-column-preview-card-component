@@ -49,6 +49,12 @@ button {
   border: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
+/* ----------------- */
+
 .container {
   max-width: 375px;
   font-family: "Lexend Deca", sans-serif;
@@ -104,6 +110,12 @@ button {
   background-color: hsl(179, 100%, 13%);
 }
 
+.attribution {
+  font-family: "Lexend Deca", sans-serif;
+  color: hsl(184, 100%, 22%);
+  margin-bottom: 1.5em;
+}
+
 /* Navigation */
 
 .btn-sedans-more {
@@ -116,4 +128,12 @@ button {
 
 .btn-luxury-more {
   color: hsl(179, 100%, 13%);
+}
+
+.attribution a {
+  color: hsl(179, 100%, 13%);
+}
+
+.attribution a:hover {
+  border-bottom: 2px solid hsl(179, 100%, 13%);
 }
