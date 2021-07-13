@@ -65,7 +65,7 @@ a {
   .container {
     display: flex;
     flex-direction: row;
-    min-width: 1440px;
+    min-width: 1000px;
   }
 }
 
@@ -73,6 +73,12 @@ a {
   width: 100%;
   padding: 3em;
 }
+
+/* @media (min-width: 1440px) {
+  .container {
+    width: 1000px;
+  }
+} */
 
 .section:first-child {
   border-top-left-radius: 10px;
