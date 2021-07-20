@@ -16,12 +16,6 @@ body {
   background-color: hsl(0, 0%, 95%);
 }
 
-@media (min-width: 1440px) {
-  body {
-    height: 100vh;
-  }
-}
-
 h1 {
   font-family: "Big Shoulders Display", cursive;
   text-transform: uppercase;
@@ -49,25 +43,12 @@ button {
   border: 0;
 }
 
-a {
-  text-decoration: none;
-}
-
 /* ----------------- */
 
-.container {
+.main {
   max-width: 375px;
   font-family: "Lexend Deca", sans-serif;
-  margin: 7em 0;
-}
-
-@media (min-width: 1440px) {
-  .container {
-    display: flex;
-    flex-direction: row;
-    min-width: 1030px;
-    min-height: 500px;
-  }
+  margin: 7em 0 2em 0;
 }
 
 .section {
@@ -83,20 +64,6 @@ a {
 .section:last-child {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-}
-
-@media (min-width: 1440px) {
-  .section:first-child {
-    border-top-right-radius: 0;
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
-  }
-
-  .section:last-child {
-    border-bottom-left-radius: 0;
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-  }
 }
 
 .sedans {
@@ -119,6 +86,10 @@ a {
 
 /* Navigation */
 
+a {
+  text-decoration: none;
+}
+
 .btn-sedans-more {
   color: hsl(31, 77%, 52%);
 }
@@ -137,4 +108,31 @@ a {
 
 .attribution a:hover {
   border-bottom: 2px solid hsl(179, 100%, 13%);
+}
+
+/* Media Queries */
+
+@media (min-width: 1440px) {
+  body {
+    height: 100vh;
+  }
+
+  .main {
+    display: flex;
+    flex-direction: row;
+    min-width: 1440px;
+    min-height: 500px;
+  }
+
+  .section:first-child {
+    border-top-right-radius: 0;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+
+  .section:last-child {
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
 }
