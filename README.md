@@ -32,15 +32,14 @@ Mobile view:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/articlepreviewcomponent-with-flexbox-and-css-grid-6MrwnYVIS
-- Live Site URL: https://co555.github.io/article-preview-component/
+- Solution URL: https://www.frontendmentor.io/solutions/mobile-first-design-rQveoca9S
+- Live Site URL: https://co555.github.io/3-column-preview-card-component/
 
 ## My process
 
 ### Built with
 
 - Mobile-first workflow
-- CSS Grid
 - Flexbox
 
 ## Author
