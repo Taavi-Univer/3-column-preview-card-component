@@ -24,10 +24,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop view:
-![](./images/co555-article-preview-component-desktop.png)
+![](./images/co555-3-column-preview-card-component-desktop.png)
 
 Mobile view:
-![](./images/co555-article-preview-component-mobile.png)
+![](./images/co555-3-column-preview-card-component-mobile.png)
 
 
 ### Links
