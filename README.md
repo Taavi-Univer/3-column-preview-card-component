@@ -23,10 +23,10 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop view:
+Mobile view:
 ![](./design/taavi-univer.github.io_3-column-preview-card-component_mobile.png)
 
-Mobile view:
+Desktop view:
 ![](./design/taavi-univer.github.io_3-column-preview-card-component_desktop.png)
 
 
