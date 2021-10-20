@@ -130,7 +130,6 @@ a {
     display: flex;
     flex-direction: row;
     min-width: 60em;
-    /* min-height: 500px; */
   }
 
   .section:first-child {
