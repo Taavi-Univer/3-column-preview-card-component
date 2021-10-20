@@ -33,7 +33,7 @@ Mobile view:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/mobile-first-design-rQveoca9S
-- Live Site URL: https://co555.github.io/3-column-preview-card-component/
+- Live Site URL: https://taavi-univer.github.io/3-column-preview-card-component/
 
 ## My process
 
@@ -44,5 +44,5 @@ Mobile view:
 
 ## Author
 
-- Website - https://github.com/co555?tab=repositories
-- Frontend Mentor - https://www.frontendmentor.io/profile/co555
+- Website - https://github.com/taavi-univer?tab=repositories
+- Frontend Mentor - https://www.frontendmentor.io/profile/taavi-univer
