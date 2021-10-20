@@ -16,6 +16,7 @@ body {
 
 h1 {
   font-family: "Big Shoulders Display", cursive;
+  font-size: 2.3rem;
   text-transform: uppercase;
   color: hsl(0, 0%, 95%);
   margin-bottom: 0.9em;
@@ -27,7 +28,7 @@ img {
 
 p {
   color: hsla(0, 0%, 100%, 0.75);
-  line-height: 2.1em;
+  line-height: 1.7em;
   margin-bottom: 5.7em;
 }
 
@@ -129,7 +130,7 @@ a {
     display: flex;
     flex-direction: row;
     min-width: 60em;
-    min-height: 500px;
+    /* min-height: 500px; */
   }
 
   .section:first-child {
