@@ -120,7 +120,7 @@ a {
   border-bottom: 2px solid hsl(179, 100%, 13%);
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 60em) {
   body {
     height: 100vh;
   }
@@ -128,7 +128,7 @@ a {
   .main {
     display: flex;
     flex-direction: row;
-    min-width: 1440px;
+    min-width: 60em;
     min-height: 500px;
   }
 
