@@ -24,10 +24,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop view:
-![](./images/co555-3-column-preview-card-component-desktop.png)
+![](./design/taavi-univer.github.io_3-column-preview-card-component_mobile.png)
 
 Mobile view:
-![](./images/co555-3-column-preview-card-component-mobile.png)
+![](./design/taavi-univer.github.io_3-column-preview-card-component_desktop.png)
 
 
 ### Links
